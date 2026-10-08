@@ -8,7 +8,7 @@ I'm a geologist and automation engineer.
 </summary>
 
 ## What i do?
-I am a geologist working on development and automation for a resource modeling application.
+I work on the development and automation of applications for mineral resource modeling and the mining industry.
 
 ## Stack
 - C
