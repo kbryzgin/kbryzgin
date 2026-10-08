@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi everyone!
 
-<!--
-**kbryzgin/kbryzgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a geologist and automation engineer.
 
-Here are some ideas to get you started:
+<details>
+<summary>
+  More information
+</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What i do?
+I am a geologist working on development and automation for a resource modeling application.
+
+## Stack
+- C
+- Python
+
+</details>
