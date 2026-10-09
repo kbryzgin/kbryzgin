@@ -1,6 +1,6 @@
 ## Hi everyone!
 
-I'm a geologist and automation engineer.
+I'm a geologist and GIS engineer.
 
 <details>
 <summary>
